@@ -1,6 +1,6 @@
 {% set name = "freediscovery" %}
-{% set version = "1.1.0" %}
-{% set sha256 = "f20b862b6f0ea77a8fe72d15d438e75f7277c16e804d17cbf0c66e8e312f0933" %}
+{% set version = "1.1.2" %}
+{% set sha256 = "3c185fe6091cc8beedfa7a933a7085672a6b65482b4a933714fd8c2312feb25a" %}
 
 package:
   name: {{ name|lower }}
