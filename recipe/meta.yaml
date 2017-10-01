@@ -34,13 +34,13 @@ requirements:
 test:
   imports:
     - freediscovery
-    - freediscovery.server
+    - freediscovery.cluster
 
 about:
   home: https://github.com/FreeDiscovery/FreeDiscovery
   license: "BSD-3-Clause"
   license_family: "BSD"
-  license_file: LICENCE
+  license_file: LICENSE
   summary: 'Open Source Software for E-Discovery and Information Retrieval'
 
   description: |
