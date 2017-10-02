@@ -7,7 +7,7 @@ Package license: BSD-3-Clause
 
 Feedstock license: BSD 3-Clause
 
-Summary: Open Source Software for E-Discovery and Information Retrieval
+Summary: E-Discovery and Information Retrieval Engine
 
 FreeDiscovery is built on top of existing machine learning libraries
 (scikit-learn) and exposes a REST API for information retrieval applications.
