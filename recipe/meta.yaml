@@ -41,7 +41,7 @@ about:
   license: "BSD-3-Clause"
   license_family: "BSD"
   license_file: LICENSE
-  summary: 'Open Source Software for E-Discovery and Information Retrieval'
+  summary: 'E-Discovery and Information Retrieval Engine'
 
   description: |
      FreeDiscovery is built on top of existing machine learning libraries
