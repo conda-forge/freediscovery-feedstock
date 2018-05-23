@@ -16,12 +16,15 @@ FreeDiscovery is built on top of existing machine learning libraries
 Current build status
 ====================
 
-All platforms: [![Circle CI](https://circleci.com/gh/conda-forge/freediscovery-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/freediscovery-feedstock)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/freediscovery-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/freediscovery-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/freediscovery/badges/version.svg)](https://anaconda.org/conda-forge/freediscovery)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/freediscovery/badges/downloads.svg)](https://anaconda.org/conda-forge/freediscovery)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-freediscovery-green.svg)](https://anaconda.org/conda-forge/freediscovery) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/freediscovery.svg)](https://anaconda.org/conda-forge/freediscovery) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/freediscovery.svg)](https://anaconda.org/conda-forge/freediscovery) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/freediscovery.svg)](https://anaconda.org/conda-forge/freediscovery) |
 
 Installing freediscovery
 ========================
