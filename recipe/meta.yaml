@@ -20,6 +20,7 @@ requirements:
   build:
     - python
     - setuptools
+    - pip
   run:
     - python
     - numpy >=1.10.0
