@@ -13,7 +13,7 @@ source:
 
 build:
   noarch: python
-  number: 0
+  number: 1
   script: python -m pip install --no-deps --ignore-installed .
 
 requirements:
@@ -39,7 +39,7 @@ test:
     - freediscovery.cluster
 
 about:
-  home: https://github.com/FreeDiscovery/FreeDiscovery
+  home: https://tryfreediscovery.com
   license: "BSD-3-Clause"
   license_family: "BSD"
   license_file: LICENSE
