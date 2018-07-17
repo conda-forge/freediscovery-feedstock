@@ -13,7 +13,7 @@ source:
 
 build:
   noarch: python
-  number: 1
+  number: 2
   script: python -m pip install --no-deps --ignore-installed .
 
 requirements:
@@ -31,7 +31,7 @@ requirements:
     - requests >=2.10
     - apispec <0.20.0
     - marshmallow >=2.12.2,<2.99
-    - flask-apispec >=0.3.2 
+    - flask-apispec >=0.3.2,<0.5.0
 
 test:
   imports:
